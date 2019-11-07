@@ -1,7 +1,11 @@
 /**
  * Site header
  */
+
 .site-header {
+  background-image: url(/pics/grongrenboard.jpg);
+  height: 140px; background-position: center;
+  background-repeat: no-repeat;
   border-top: 5px solid $grey-color-dark;
   border-bottom: 1px solid $grey-color-light;
   min-height: $spacing-unit * 1.865;
@@ -23,10 +27,10 @@
     color: $grey-color-dark;
   }
 }
-
+// Navigation block
 .site-nav {
-  float: right;
-  line-height: $base-line-height * $base-font-size * 2.25;
+  float: left;
+  background-color: aqua;
 
   .nav-trigger {
       display: none;
@@ -37,8 +41,17 @@
   }
 
   .page-link {
-    color: $text-color;
+    width: 100%;
+    position: relative;
+    text-align: center;
+    color: $link-color;
+    background-color: rgb(189, 189, 189);
     line-height: $base-line-height;
+    display: inline-block;
+    padding: 12px 12px;
+    border: solid 1px;
+    box-shadow: 0px 8px 16px rgba(0,0,0,0.2);
+    z-index: 1;
 
     // Gaps between nav items, but not on the last one
     &:not(:last-child) {
@@ -99,8 +112,6 @@
     }
   }
 }
-
-
 
 /**
  * Site footer
