@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+  {%- include head.html -%}
+
+  <body>
+
+    {%- include header.html -%}
+
+    <main class="page-content" aria-label="Content">
+      
+      <nav id="navigation">
+        <a href="">En länk</a>
+        <a href="">Ytterligare en länk</a>
+      </nav>
+      
+      <div class="wrapper">
+        {{ content }}
+      </div>
+    </main>
+
+    {%- include footer.html -%}
+
+  </body>
+
+</html>

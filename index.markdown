@@ -4,5 +4,3 @@
 
 layout: home
 ---
-# Huh?
-Are we there yet?
