@@ -10,7 +10,8 @@
   border-top: 5px solid $grey-color-dark;
   border-bottom: 1px solid $grey-color-light;
   min-height: $spacing-unit * 1.865;
-#logo {
+
+  #logo {
   width: 200px;
   margin-top: 0;
   padding-left: 25%;
@@ -46,14 +47,14 @@
 }
 
 // Navigation block
-.site-nav {
-  float: left;
-  position: relative;
-  margin-right: 20px;
-  width: auto;
+  .site-nav {
+    float: left;
+    position: relative;
+    margin-right: 20px;
+    width: auto;
 
   .nav-trigger {
-      display: none;
+    display: none;
   }
 
   .menu-icon {
@@ -70,6 +71,8 @@
     display: block;
     padding: 12px 12px;
     border: solid 1px;
+    cursor: grab;
+    
 
     &:hover {
       background-color: rgb(248, 194, 194);
