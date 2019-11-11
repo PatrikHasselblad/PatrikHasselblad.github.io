@@ -3,6 +3,7 @@
 
   <img id="gren1" src="/pics/grentrans1.png" alt="en gren">
   <img id="gren" src="/pics/grentrans.png" alt="en gren">
+  
   <div class="wrapper">
 
     <div class="footer-col-wrapper">
@@ -18,6 +19,7 @@
             {%- if site.email -%}
             <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
             {%- endif -%}
+            <a href="/humans.txt"><img src="/pics/humanstxt.gif"></a>
         </ul>
       </div>
 
@@ -29,7 +31,6 @@
         <p>{{- site.description | escape -}}</p>
       </div>
     </div>
-
   </div>
 
 </footer>

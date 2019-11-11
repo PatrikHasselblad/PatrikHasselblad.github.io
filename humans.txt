@@ -1,0 +1,17 @@
+/* TEAM */
+                           
+Your title: Patrik Hasselblad.
+Site: use.blog.disqus@on.site.nu
+Location: Ekerö, Sweden.
+
+/* THANKS */
+Name: Jekyll, https://jekyllrb.com/
+
+Moral support.
+Name: Camilla Eriksson
+From: Ekerö, Sweden.
+
+/* SITE */
+Last update: 20019/11/11
+Standards: HTML5, CSS3.
+Software: VSC.
