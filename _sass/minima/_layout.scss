@@ -41,6 +41,7 @@
   border-radius: 20px;
   max-width: 180px;
 }
+
 @include media-query($on-palm) {
 .box {
   float: none;
@@ -52,7 +53,7 @@
 // Navigation block
   .site-nav {
     float: left;
-    position: relative;
+    position: static;
     margin-right: 20px;
     width: auto;
 
