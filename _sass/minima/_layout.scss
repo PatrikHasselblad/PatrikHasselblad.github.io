@@ -27,6 +27,18 @@
   position: relative;
 }
 
+/* 
+*A-side box
+*/
+.box {
+  float: right;
+  height: 100%;
+  margin-right: 20px;
+  padding: 20px;
+  background-color: #000;
+  border-radius: 20px;
+}
+
 // Navigation block
 .site-nav {
   float: left;
@@ -110,18 +122,6 @@
       display: none;
     }
   }
-}
-
-/* 
-*A-side box
-*/
-.box {
-  float: right;
-  height: 100%;
-  margin-right: 20px;
-  padding: 20px;
-  background-color: #000;
-  border-radius: 20px;
 }
 
 /**
