@@ -6,5 +6,5 @@ categories: jekyll update
 ---
 
 <h2>Goodmorning!</h2>
-How can this be?
-I dont know.
+
+Today is not a good day. It's chilly, my throat is hurting like a slap from a hand full of needles.

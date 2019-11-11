@@ -1,7 +1,7 @@
 ---
 layout: "page"
 title: newpage
-permalink: "/newpage"
+permalink: "/newpage/"
 ---
 
 # This is a big title

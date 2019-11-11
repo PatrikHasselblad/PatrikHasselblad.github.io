@@ -50,9 +50,8 @@
     padding: 12px 12px;
     border: solid 1px;
 
-    // Gaps between nav items, but not on the last one
-    &:not(:last-child) {
-      margin-right: 20px;
+    &:hover {
+      background-color: rgb(248, 194, 194);
     }
   }
 
@@ -111,6 +110,18 @@
       display: none;
     }
   }
+}
+
+/* 
+*A-side box
+*/
+.box {
+  float: right;
+  height: 100%;
+  margin-right: 20px;
+  padding: 20px;
+  background-color: #000;
+  border-radius: 20px;
 }
 
 /**

@@ -10,6 +10,8 @@ permalink: /about/
 I grew up a long, long time ago, before we even had computers in our homes. Instead we used to be outdoors; fishing, biking, 
 taking apples from neighbours trees. Just common stuff.
 
+I live outside of Stockholm with my family; 2 children and a fiancée.
+
 Programming and system development has always been an interest of mine but opening the big brick-books has always been somewhat 
 tedious. So it always ended up on the shelf.
 
