@@ -49,8 +49,8 @@ I also linked the file to the humans.txt button in the footer of the site.
 
 ### How I implemented comments to my blogposts.
 
-I created an account on disqus.com and followed the instructions on the site. From there I got a bit of code to copy/paste in one of my 
-HTML-files. I pasted it on a suitable location in my layout page for posts, that is generated each time I add another post. 
+I created an account on [disqus.com](https://disqus.com/){:target="_blank"} and followed the instructions on the site. From there I got a bit of code 
+to copy/paste in one of my HTML-files. I pasted it on a suitable location in my layout page for posts, that is generated each time I add another post. 
 That way I don’t have to do anything further for it to work in the future. It will always pop-up, down below on each page.
 
 Before I could figure out how to make it work I published my website through [github.com](https://github.com/){:target="_blank"} because I thought I needed the 

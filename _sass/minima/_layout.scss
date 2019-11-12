@@ -189,6 +189,7 @@
   float: left;
   padding-left: 20px;
 }
+
 @include media-query($content-squeze) {
   #gren, #gren1 {
     display: none;
